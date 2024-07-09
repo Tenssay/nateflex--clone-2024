@@ -1,0 +1,367 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/tdlHJ8KoOd9UgUygCWQ3fKRNkAR.jpg",
+      "genre_ids": [18],
+      "id": 91239,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Bridgerton",
+      "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+      "popularity": 877.311,
+      "poster_path": "/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
+      "first_air_date": "2020-12-25",
+      "name": "Bridgerton",
+      "vote_average": 8.14,
+      "vote_count": 2663
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/odl5FR4pYYlK2dnXLXWnI6noZkM.jpg",
+      "genre_ids": [10759, 10765, 18],
+      "id": 158141,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Supacell",
+      "overview": "When five ordinary South Londoners discover they have extraordinary powers, it's down to one man to bring them together to save the woman he loves.",
+      "popularity": 503.222,
+      "poster_path": "/iZsQBIobC1oKSBEX0XoWF598j7F.jpg",
+      "first_air_date": "2024-06-27",
+      "name": "Supacell",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aDBRtunw49UF4XmqfyNuD9nlYIu.jpg",
+      "genre_ids": [80, 10765],
+      "id": 63174,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lucifer",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "popularity": 499.185,
+      "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+      "first_air_date": "2016-01-25",
+      "name": "Lucifer",
+      "vote_average": 8.47,
+      "vote_count": 14443
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jjECb6dSFUKXDtryuQk4rkFY7oP.jpg",
+      "genre_ids": [10759, 16, 10765],
+      "id": 4194,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Star Wars: The Clone Wars",
+      "overview": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+      "popularity": 443.364,
+      "poster_path": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+      "first_air_date": "2008-10-03",
+      "name": "Star Wars: The Clone Wars",
+      "vote_average": 8.474,
+      "vote_count": 1944
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zymbuoBoL1i94xAOzVJF6IuWLfD.jpg",
+      "genre_ids": [10759, 18, 35],
+      "id": 77169,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Cobra Kai",
+      "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+      "popularity": 415.55,
+      "poster_path": "/m7tG5E1EbywuwTsl6hq990So0Bx.jpg",
+      "first_air_date": "2018-05-02",
+      "name": "Cobra Kai",
+      "vote_average": 8.2,
+      "vote_count": 5982
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "genre_ids": [18, 10765, 9648, 10759],
+      "id": 66732,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "popularity": 407.59,
+      "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "first_air_date": "2016-07-15",
+      "name": "Stranger Things",
+      "vote_average": 8.611,
+      "vote_count": 17214
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xlyT6E0jceTQ9s4BpHY6PkeOilr.jpg",
+      "genre_ids": [35],
+      "id": 50524,
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "เป็นต่อ",
+      "overview": "A successful man at a publishing company tries to rekindle his romance with an ex-girlfriend as those around him also search for love amidst conflict.",
+      "popularity": 396.285,
+      "poster_path": "/3pCGtGxRjxY9ZBfoCVh3gLhc5Fy.jpg",
+      "first_air_date": "2004-10-07",
+      "name": "Pen Tor",
+      "vote_average": 8.8,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZu83GB1IM7VXL2X90m7iLHYUHU.jpg",
+      "genre_ids": [18, 9648, 10765],
+      "id": 79696,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Manifest",
+      "overview": "After landing from a turbulent but routine flight, the crew and passengers of Montego Air Flight 828 discover five years have passed in what seemed like a few hours. As their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.",
+      "popularity": 354.237,
+      "poster_path": "/eTemCphrglLKrXOsNRhYezHA7H9.jpg",
+      "first_air_date": "2018-09-24",
+      "name": "Manifest",
+      "vote_average": 7.695,
+      "vote_count": 1501
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8UVzqlBMG3azowsi7f8lqZwhcBZ.jpg",
+      "genre_ids": [18, 10768],
+      "id": 67026,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Designated Survivor",
+      "overview": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.",
+      "popularity": 349.526,
+      "poster_path": "/5R125JAIh1N38pzHp2dRsBpOVNY.jpg",
+      "first_air_date": "2016-09-21",
+      "name": "Designated Survivor",
+      "vote_average": 7.136,
+      "vote_count": 902
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ieiq46OoeTrLkjtclmhii6iRyzP.jpg",
+      "genre_ids": [18],
+      "id": 242876,
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "Ni una más",
+      "overview": "When a 17-year-old reports a sexual assault at her high school, an investigation upends her life and tests her relationships.",
+      "popularity": 343.966,
+      "poster_path": "/lCU77Jp0iWN2e1WuSJvR7M35ebN.jpg",
+      "first_air_date": "2024-05-31",
+      "name": "Raising Voices",
+      "vote_average": 7.837,
+      "vote_count": 230
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aiCSg8b7qYFe6lfBsxfljDJ5xGx.jpg",
+      "genre_ids": [10765, 9648],
+      "id": 228958,
+      "origin_country": [
+        "ID"
+      ],
+      "original_language": "id",
+      "original_name": "Joko Anwar's Nightmares and Daydreams",
+      "overview": "Tales of supernatural sci-fi phenomena unfold in this collection of seven mind-bending, interconnected stories imagined by writer-director Joko Anwar.",
+      "popularity": 332.468,
+      "poster_path": "/rMKc9TrrHGpmWmWTU6rHX4he5wo.jpg",
+      "first_air_date": "2024-06-14",
+      "name": "Joko Anwar's Nightmares and Daydreams",
+      "vote_average": 6.643,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z8Mg3YVZGd1iSnoDinEAoh9WTck.jpg",
+      "genre_ids": [35, 18],
+      "id": 1424,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Orange Is the New Black",
+      "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
+      "popularity": 328.402,
+      "poster_path": "/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+      "first_air_date": "2013-07-11",
+      "name": "Orange Is the New Black",
+      "vote_average": 7.664,
+      "vote_count": 2397
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xpba0Dxz3sxV3QgYLR8UIe1LAAX.jpg",
+      "genre_ids": [18, 10765],
+      "id": 103768,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Sweet Tooth",
+      "overview": "On a perilous adventure across a post-apocalyptic world, a lovable boy who's half-human and half-deer searches for a new beginning with a gruff protector.",
+      "popularity": 304.197,
+      "poster_path": "/dBxxtfhC4vYrxB2fLsSxOTY2dQc.jpg",
+      "first_air_date": "2021-06-04",
+      "name": "Sweet Tooth",
+      "vote_average": 7.859,
+      "vote_count": 1378
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
+      "genre_ids": [80, 18, 10759],
+      "id": 61889,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Daredevil",
+      "overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+      "popularity": 303.432,
+      "poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+      "first_air_date": "2015-04-10",
+      "name": "Marvel's Daredevil",
+      "vote_average": 8.162,
+      "vote_count": 4354
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
+      "genre_ids": [10759, 18, 10768],
+      "id": 63333,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The Last Kingdom",
+      "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
+      "popularity": 297.123,
+      "poster_path": "/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+      "first_air_date": "2015-10-10",
+      "name": "The Last Kingdom",
+      "vote_average": 8.259,
+      "vote_count": 1662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qCXY93t7QnKp6aWT1WKaQo0Qt5r.jpg",
+      "genre_ids": [35],
+      "id": 4589,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Arrested Development",
+      "overview": "The story of a wealthy family that lost everything, and the one son who had no choice but to keep them all together.",
+      "popularity": 285.816,
+      "poster_path": "/qMzwO952hMWQSCfHkp7IL20s4K7.jpg",
+      "first_air_date": "2003-11-02",
+      "name": "Arrested Development",
+      "vote_average": 7.97,
+      "vote_count": 1301
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+      "genre_ids": [10765, 18],
+      "id": 38472,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Jessica Jones",
+      "overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
+      "popularity": 282.505,
+      "poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
+      "first_air_date": "2015-11-20",
+      "name": "Marvel's Jessica Jones",
+      "vote_average": 7.502,
+      "vote_count": 2230
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2ZNFu0hkSVtAI6LRWGIlCPNd1Tj.jpg",
+      "genre_ids": [18],
+      "id": 78191,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "You",
+      "overview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "popularity": 281.333,
+      "poster_path": "/7bEYwjUvlJW7GerM8GYmqwl4oS3.jpg",
+      "first_air_date": "2018-09-09",
+      "name": "You",
+      "vote_average": 8.054,
+      "vote_count": 3040
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8hpED8ax6b5ay5I0hLqaqgEcbOm.jpg",
+      "genre_ids": [18, 10766],
+      "id": 237952,
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "ดวงใจเทวพรหม",
+      "overview": "Dhevaprom is a Thai lakorn based on the novel of the same name and written by the same writers as its preceding story ... The Five Brothers series, that aired in 2013. Dhevaprom consists of Laorchan, Kwanruetai, Jaiphisut, Dujapsorn and Porncheewan.",
+      "popularity": 267.537,
+      "poster_path": "/wtTjfnK4OYphmzzRuTXIo4owoHz.jpg",
+      "first_air_date": "2024-03-08",
+      "name": "Dhevaprom",
+      "vote_average": 7.2,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9VPNHVHT3d3FzLQiHO4cq4Ysl3r.jpg",
+      "genre_ids": [18],
+      "id": 226527,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "하이라키",
+      "overview": "The top 0.01% of students control law and order at Jooshin High School, but a secretive transfer student chips a crack in their indomitable world.",
+      "popularity": 258.893,
+      "poster_path": "/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
+      "first_air_date": "2024-06-07",
+      "name": "Hierarchy",
+      "vote_average": 7.813,
+      "vote_count": 83
+    }
+  ],
+  "total_pages": 107,
+  "total_results": 2137
+}
