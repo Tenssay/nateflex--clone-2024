@@ -9,6 +9,7 @@ const Banner = () => {
     ;(async () => {
       try {
         const request = await axios.get(requests.fetchNetflixOriginals)
+        
         console.log(request)
         setMovie(
           request.data.results[
@@ -16,7 +17,7 @@ const Banner = () => {
           ]
         )
       } catch (error) {
-        // console.log("error", error)
+        //console.log("error", error)
       }
     })()
   }, [])
