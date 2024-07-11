@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nateflix-clone-2024%20/static/css/main.e991e8af.css",
+    "main.js": "/nateflix-clone-2024%20/static/js/main.1f7d3dfc.js",
+    "static/media/netflix.jpg": "/nateflix-clone-2024%20/static/media/netflix.38ac76f74a4f56128a39.jpg",
+    "index.html": "/nateflix-clone-2024%20/index.html",
+    "main.e991e8af.css.map": "/nateflix-clone-2024%20/static/css/main.e991e8af.css.map",
+    "main.1f7d3dfc.js.map": "/nateflix-clone-2024%20/static/js/main.1f7d3dfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e991e8af.css",
+    "static/js/main.1f7d3dfc.js"
+  ]
+}
